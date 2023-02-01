@@ -1,0 +1,11 @@
+C:\Users\Orphew\source\repos\AlfaBetoRusso\AlfaBetoRusso\bin\Debug\AlfaBetoRusso.exe.config
+C:\Users\Orphew\source\repos\AlfaBetoRusso\AlfaBetoRusso\bin\Debug\AlfaBetoRusso.exe
+C:\Users\Orphew\source\repos\AlfaBetoRusso\AlfaBetoRusso\bin\Debug\AlfaBetoRusso.pdb
+C:\Users\Orphew\source\repos\AlfaBetoRusso\AlfaBetoRusso\obj\Debug\AlfaBetoRusso.csproj.AssemblyReference.cache
+C:\Users\Orphew\source\repos\AlfaBetoRusso\AlfaBetoRusso\obj\Debug\AlfaBetoRusso.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orphew\source\repos\AlfaBetoRusso\AlfaBetoRusso\obj\Debug\AlfaBetoRusso.Form1.resources
+C:\Users\Orphew\source\repos\AlfaBetoRusso\AlfaBetoRusso\obj\Debug\AlfaBetoRusso.Properties.Resources.resources
+C:\Users\Orphew\source\repos\AlfaBetoRusso\AlfaBetoRusso\obj\Debug\AlfaBetoRusso.csproj.GenerateResource.cache
+C:\Users\Orphew\source\repos\AlfaBetoRusso\AlfaBetoRusso\obj\Debug\AlfaBetoRusso.csproj.CoreCompileInputs.cache
+C:\Users\Orphew\source\repos\AlfaBetoRusso\AlfaBetoRusso\obj\Debug\AlfaBetoRusso.exe
+C:\Users\Orphew\source\repos\AlfaBetoRusso\AlfaBetoRusso\obj\Debug\AlfaBetoRusso.pdb
